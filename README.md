@@ -1,5 +1,5 @@
 # C_language
-C言語練習中！！！！！！！！！！！新・明解Ｃ言語入門編
+C言語練習中！！！！！！！！！！！ With 新・明解Ｃ言語入門編
 
 開発環境→OS：Windows 10Pro
         コンパイラ：Developer Command Prompt for VS 2019 (Visual Studio 2019)
