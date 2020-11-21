@@ -6,5 +6,6 @@
 int main(void)
 {
 	printf("こんにちは。\n私の名前は北見時雨です。\n"); //途中と最後で改行
+	
 	return 0;
 }
