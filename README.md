@@ -13,3 +13,5 @@ OS：Windows 10Pro 64bit
 使用参考書：新・明解Ｃ言語入門編
 <br>
 演習問題(work00-00.c)は先人の知恵をお借りしてます。主にこちらのページ[「A」_Happy (Example Solutions);](http://meikaicansewer.blogspot.com/)
+<br>
+__2021年1月24日全ページ学習終了！！__
